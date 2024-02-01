@@ -28,7 +28,7 @@
             "speed": "200 km/u",
             "color": "Rood",
             "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"],
-            "image": "car-1"
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/images/car-1.jpeg?raw=true"            
         },
         {
             "type": "drone",
