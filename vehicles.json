@@ -8,7 +8,7 @@
             "speed": "80 km/u",
             "color": "Zilver",
             "special_features": ["observatiedek", "luxe cabines"],
-            "image": "zeppelin-1"
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-1.jpeg?raw=true"
         },
         {
             "type": "fighter",
@@ -18,7 +18,7 @@
             "speed": "Mach 2",
             "weapons": ["plasma kanonnen", "raketten"],
             "special_features": ["stealth-modus", "supersonische vliegcapaciteit"],
-            "image": "fighter-1"
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-1.jpeg?raw=true"
         },
         {
             "type": "car",
@@ -28,7 +28,7 @@
             "speed": "200 km/u",
             "color": "Rood",
             "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/images/car-1.jpeg?raw=true"            
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-1.jpeg?raw=true"            
         },
         {
             "type": "drone",
@@ -38,7 +38,7 @@
             "max_range": "50 km",
             "color": "Zwart",
             "special_features": ["HD-camera", "automatische piloot"],
-            "image": "drone-1"
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-1.jpeg?raw=true"
         }
     ]
 }
