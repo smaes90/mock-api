@@ -1,0 +1,40 @@
+{
+    "vehicles": [
+        {
+            "type": "zeppelin",
+            "name": "Sky Voyager",
+            "fuel": "Helium",
+            "passenger_capacity": 50,
+            "speed": "80 km/u",
+            "color": "Zilver",
+            "special_features": ["observatiedek", "luxe cabines"]
+        },
+        {
+            "type": "fighter",
+            "name": "Thunderhawk X-500",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 2",
+            "weapons": ["plasma kanonnen", "raketten"],
+            "special_features": ["stealth-modus", "supersonische vliegcapaciteit"]
+        },
+        {
+            "type": "car",
+            "name": "Quantum Roadster",
+            "fuel": "Elektriciteit",
+            "passenger_capacity": 4,
+            "speed": "200 km/u",
+            "color": "Rood",
+            "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"]
+        },
+        {
+            "type": "drone",
+            "name": "SwiftEye 3000",
+            "energy_source": "Batterij",
+            "flight_time": "1 uur",
+            "max_range": "50 km",
+            "color": "Zwart",
+            "special_features": ["HD-camera", "automatische piloot"]
+        }
+    ]
+}
