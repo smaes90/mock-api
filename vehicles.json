@@ -11,6 +11,76 @@
             "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-1.jpeg?raw=true"
         },
         {
+            "type": "zeppelin",
+            "name": "Cloud Cruiser",
+            "fuel": "Helium",
+            "passenger_capacity": 40,
+            "speed": "70 km/u",
+            "color": "Blauw",
+            "special_features": ["panoramisch uitzicht", "bar"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-2.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Air Majesty",
+            "fuel": "Helium",
+            "passenger_capacity": 60,
+            "speed": "90 km/u",
+            "color": "Goud",
+            "special_features": ["spa", "restaurant"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-3.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Sky Serenity",
+            "fuel": "Helium",
+            "passenger_capacity": 45,
+            "speed": "75 km/u",
+            "color": "Groen",
+            "special_features": ["bioscoop", "fitnessruimte"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-4.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Silver Skyline",
+            "fuel": "Helium",
+            "passenger_capacity": 55,
+            "speed": "85 km/u",
+            "color": "Zilver",
+            "special_features": ["zwembad", "casino"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-5.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Majestic Airship",
+            "fuel": "Helium",
+            "passenger_capacity": 50,
+            "speed": "80 km/u",
+            "color": "Paars",
+            "special_features": ["skybar", "spa"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-6.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Golden Horizon",
+            "fuel": "Helium",
+            "passenger_capacity": 60,
+            "speed": "90 km/u",
+            "color": "Goud",
+            "special_features": ["observatiedek", "restaurant"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-7.jpeg?raw=true"
+        },
+        {
+            "type": "zeppelin",
+            "name": "Sky Dreamer",
+            "fuel": "Helium",
+            "passenger_capacity": 40,
+            "speed": "70 km/u",
+            "color": "Blauw",
+            "special_features": ["luxe cabines", "bar"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-8.jpeg?raw=true"
+        },
+        {
             "type": "fighter",
             "name": "Thunderhawk X-500",
             "fuel": "Fusion Reactor",
@@ -19,6 +89,76 @@
             "weapons": ["plasma kanonnen", "raketten"],
             "special_features": ["stealth-modus", "supersonische vliegcapaciteit"],
             "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-1.jpeg?raw=true"
+        },
+{
+            "type": "fighter",
+            "name": "Shadowhawk X-200",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 3",
+            "weapons": ["laser kanonnen", "raketten"],
+            "special_features": ["invisibility cloak", "advanced targeting system"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-2.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Firestorm X-300",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 2.5",
+            "weapons": ["plasma kanonnen", "EMP bommen"],
+            "special_features": ["stealth technology", "advanced maneuverability"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-3.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Thunderstrike X-400",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 3.5",
+            "weapons": ["railguns", "guided missiles"],
+            "special_features": ["active camouflage", "hypersonic capabilities"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-4.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Viper X-600",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 4",
+            "weapons": ["plasma cannons", "cluster bombs"],
+            "special_features": ["energy shield", "vertical takeoff and landing"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-5.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Raptor X-700",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 4.5",
+            "weapons": ["laser cannons", "guided torpedoes"],
+            "special_features": ["stealth mode", "supersonic capabilities"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-6.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Phoenix X-800",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 5",
+            "weapons": ["plasma cannons", "nuclear missiles"],
+            "special_features": ["advanced radar system", "hypersonic maneuverability"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-7.jpeg?raw=true"
+        },
+        {
+            "type": "fighter",
+            "name": "Titan X-900",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 6",
+            "weapons": ["railguns", "plasma torpedoes"],
+            "special_features": ["energy shield", "advanced AI system"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-8.jpeg?raw=true"
         },
         {
             "type": "car",
@@ -31,6 +171,76 @@
             "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-1.jpeg?raw=true"            
         },
         {
+            "type": "car",
+            "name": "HyperDrive GT",
+            "fuel": "Benzine",
+            "passenger_capacity": 2,
+            "speed": "350 km/u",
+            "color": "Blauw",
+            "special_features": ["sportuitlaat", "racestoelen"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-2.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "EcoCruiser",
+            "fuel": "Waterstof",
+            "passenger_capacity": 5,
+            "speed": "180 km/u",
+            "color": "Groen",
+            "special_features": ["brandstofceltechnologie", "zuinig brandstofverbruik"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-3.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "UrbanCity",
+            "fuel": "Elektriciteit",
+            "passenger_capacity": 4,
+            "speed": "150 km/u",
+            "color": "Geel",
+            "special_features": ["compact formaat", "parkeerassistentie"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-4.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "LuxuryCruise",
+            "fuel": "Benzine",
+            "passenger_capacity": 5,
+            "speed": "250 km/u",
+            "color": "Zilver",
+            "special_features": ["lederen bekleding", "panoramisch dak"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-5.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "OffroadBeast",
+            "fuel": "Diesel",
+            "passenger_capacity": 5,
+            "speed": "180 km/u",
+            "color": "Zwart",
+            "special_features": ["vierwielaandrijving", "offroad banden"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-6.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "FamilyVan",
+            "fuel": "Benzine",
+            "passenger_capacity": 7,
+            "speed": "160 km/u",
+            "color": "Wit",
+            "special_features": ["grote bagageruimte", "achteruitrijcamera"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-7.jpeg?raw=true"            
+        },
+        {
+            "type": "car",
+            "name": "RetroRacer",
+            "fuel": "Benzine",
+            "passenger_capacity": 2,
+            "speed": "300 km/u",
+            "color": "Rood",
+            "special_features": ["retro design", "sportuitlaat"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-8.jpeg?raw=true"
+        },
+        {
             "type": "drone",
             "name": "SwiftEye 3000",
             "energy_source": "Batterij",
@@ -39,6 +249,168 @@
             "color": "Zwart",
             "special_features": ["HD-camera", "automatische piloot"],
             "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-1.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "SkyMaster X",
+            "energy_source": "Batterij",
+            "flight_time": "2 uur",
+            "max_range": "100 km",
+            "color": "Wit",
+            "special_features": ["4K-camera", "GPS-navigatie"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-2.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "AeroWing 500",
+            "energy_source": "Zonne-energie",
+            "flight_time": "3 uur",
+            "max_range": "150 km",
+            "color": "Blauw",
+            "special_features": ["Obstacle avoidance", "Follow me mode"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-3.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "StealthFlyer",
+            "energy_source": "Batterij",
+            "flight_time": "1.5 uur",
+            "max_range": "75 km",
+            "color": "Zwart",
+            "special_features": ["Night vision camera", "Stealth mode"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-4.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "FireFly",
+            "energy_source": "Batterij",
+            "flight_time": "2.5 uur",
+            "max_range": "120 km",
+            "color": "Rood",
+            "special_features": ["Thermal camera", "Fire detection system"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-5.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "SpeedWing",
+            "energy_source": "Batterij",
+            "flight_time": "1.5 uur",
+            "max_range": "80 km",
+            "color": "Geel",
+            "special_features": ["High-speed mode", "Acrobatic maneuvers"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-6.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "CargoHawk",
+            "energy_source": "Batterij",
+            "flight_time": "2 uur",
+            "max_range": "100 km",
+            "color": "Grijs",
+            "special_features": ["Heavy payload capacity", "Cargo delivery system"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-7.jpeg?raw=true"
+        },
+        {
+            "type": "drone",
+            "name": "RescueDrone",
+            "energy_source": "Batterij",
+            "flight_time": "1.5 uur",
+            "max_range": "75 km",
+            "color": "Oranje",
+            "special_features": ["First aid kit", "Emergency beacon"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-8.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "MountainMaster",
+            "speed": "25 km/u",
+            "color": "Zwart",
+            "special_features": ["Verende voorvork", "Schijfremmen"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-1.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "CityCruiser",
+            "speed": "20 km/u",
+            "color": "Blauw",
+            "special_features": ["Bagagedrager", "Verlichting"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-2.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "ElectricGlide",
+            "speed": "30 km/u",
+            "color": "Wit",
+            "special_features": ["Elektrische ondersteuning", "Afneembare accu"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-3.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "RacingRocket",
+            "speed": "40 km/u",
+            "color": "Rood",
+            "special_features": ["Lichtgewicht frame", "Aerodynamisch design"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-4.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "UrbanCommuter",
+            "speed": "15 km/u",
+            "color": "Grijs",
+            "special_features": ["Vouwbaar", "Bagagedrager"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-5.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "BMXExtreme",
+            "speed": "35 km/u",
+            "color": "Geel",
+            "special_features": ["Stuntfiets", "Versterkte banden"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-6.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "TouringTrek",
+            "speed": "22 km/u",
+            "color": "Groen",
+            "special_features": ["Bagagedrager", "Verende zadelpen"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-7.jpeg?raw=true"
+        },
+        {
+            "type": "bike",
+            "name": "KidsCruiser",
+            "speed": "10 km/u",
+            "color": "Roze",
+            "special_features": ["Kinderzitje", "Veiligheidsvlag"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-8.jpeg?raw=true"
+        },
+        {
+            "type": "step",
+            "name": "CityGlider",
+            "color": "Zwart",
+            "special_features": ["Opvouwbaar", "In hoogte verstelbaar stuur"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-1.jpeg?raw=true"
+        },
+        {
+            "type": "step",
+            "name": "SpeedRider",
+            "color": "Rood",
+            "special_features": ["Snelheidsmeter", "Verstelbare rem"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-2.jpeg?raw=true"
+        },
+        {
+            "type": "step",
+            "name": "OffroadExplorer",
+            "color": "Groen",
+            "special_features": ["Geschikt voor ruw terrein", "Schokdempers"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-3.jpeg?raw=true"
+        },
+        {
+            "type": "step",
+            "name": "KidsCruiser",
+            "color": "Blauw",
+            "special_features": ["Verstelbaar stuur", "Veiligheidsvlag"],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-4.jpeg?raw=true"
         }
     ]
 }
