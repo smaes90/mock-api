@@ -7,7 +7,8 @@
             "passenger_capacity": 50,
             "speed": "80 km/u",
             "color": "Zilver",
-            "special_features": ["observatiedek", "luxe cabines"]
+            "special_features": ["observatiedek", "luxe cabines"],
+            "image": "zeppelin-1"
         },
         {
             "type": "fighter",
@@ -16,7 +17,8 @@
             "crew": 1,
             "speed": "Mach 2",
             "weapons": ["plasma kanonnen", "raketten"],
-            "special_features": ["stealth-modus", "supersonische vliegcapaciteit"]
+            "special_features": ["stealth-modus", "supersonische vliegcapaciteit"],
+            "image": "fighter-1"
         },
         {
             "type": "car",
@@ -25,7 +27,8 @@
             "passenger_capacity": 4,
             "speed": "200 km/u",
             "color": "Rood",
-            "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"]
+            "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"],
+            "image": "car-1"
         },
         {
             "type": "drone",
@@ -34,7 +37,8 @@
             "flight_time": "1 uur",
             "max_range": "50 km",
             "color": "Zwart",
-            "special_features": ["HD-camera", "automatische piloot"]
+            "special_features": ["HD-camera", "automatische piloot"],
+            "image": "drone-1"
         }
     ]
 }
