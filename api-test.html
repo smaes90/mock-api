@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>testing the api in browser</title>
+
+    <script>
+        async function getVehicles() {
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/smaesAP/mock-api/main/vehicles.json');
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('Error:', error);
+                throw error;
+            }
+        }
+        
+        getVehicles()
+            .then(data => {
+                console.log('Vehicles:', data);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        </script>
+</head>
+<body>
+    This page is for testing the api in the browser.
+    See console for results.
+</body>
+</html>
