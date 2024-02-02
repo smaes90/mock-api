@@ -7,8 +7,12 @@
             "passenger_capacity": 50,
             "speed": "80 km/u",
             "color": "Zilver",
-            "special_features": ["observatiedek", "luxe cabines"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-1.jpeg?raw=true"
+            "special_features": [
+                "observatiedek",
+                "luxe cabines"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-1.jpeg?raw=true",
+            "description": "De Sky Voyager is een prachtige zilveren zeppelin met een observatiedek en luxe cabines. Het is de perfecte keuze voor een ontspannen en luxueuze reis door de lucht."
         },
         {
             "type": "zeppelin",
@@ -17,8 +21,12 @@
             "passenger_capacity": 40,
             "speed": "70 km/u",
             "color": "Blauw",
-            "special_features": ["panoramisch uitzicht", "bar"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-2.jpeg?raw=true"
+            "special_features": [
+                "panoramisch uitzicht",
+                "bar"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-2.jpeg?raw=true",
+            "description": "De Cloud Cruiser is een blauwe zeppelin met een panoramisch uitzicht en een bar aan boord. Geniet van het adembenemende uitzicht terwijl je ontspant met een drankje."
         },
         {
             "type": "zeppelin",
@@ -27,8 +35,12 @@
             "passenger_capacity": 60,
             "speed": "90 km/u",
             "color": "Goud",
-            "special_features": ["spa", "restaurant"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-3.jpeg?raw=true"
+            "special_features": [
+                "spa",
+                "restaurant"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-3.jpeg?raw=true",
+            "description": "De Air Majesty is een gouden zeppelin met een luxe spa en een restaurant aan boord. Laat je verwennen en geniet van heerlijke gerechten terwijl je door de lucht zweeft."
         },
         {
             "type": "zeppelin",
@@ -37,8 +49,12 @@
             "passenger_capacity": 45,
             "speed": "75 km/u",
             "color": "Groen",
-            "special_features": ["bioscoop", "fitnessruimte"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-4.jpeg?raw=true"
+            "special_features": [
+                "bioscoop",
+                "fitnessruimte"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-4.jpeg?raw=true",
+            "description": "De Sky Serenity is een groene zeppelin met een bioscoop en een fitnessruimte aan boord. Ontspan en geniet van je favoriete films of werk aan je conditie terwijl je reist."
         },
         {
             "type": "zeppelin",
@@ -47,8 +63,12 @@
             "passenger_capacity": 55,
             "speed": "85 km/u",
             "color": "Zilver",
-            "special_features": ["zwembad", "casino"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-5.jpeg?raw=true"
+            "special_features": [
+                "zwembad",
+                "casino"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-5.jpeg?raw=true",
+            "description": "De Silver Skyline is een zilveren zeppelin met een zwembad en een casino aan boord. Geniet van een verfrissende duik en waag een gokje terwijl je door de lucht reist."
         },
         {
             "type": "zeppelin",
@@ -57,8 +77,12 @@
             "passenger_capacity": 50,
             "speed": "80 km/u",
             "color": "Paars",
-            "special_features": ["skybar", "spa"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-6.jpeg?raw=true"
+            "special_features": [
+                "skybar",
+                "spa"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-6.jpeg?raw=true",
+            "description": "De Majestic Airship is een paarse zeppelin met een skybar en een spa aan boord. Geniet van een drankje en verwen jezelf met een ontspannende spa-behandeling terwijl je reist."
         },
         {
             "type": "zeppelin",
@@ -67,8 +91,12 @@
             "passenger_capacity": 60,
             "speed": "90 km/u",
             "color": "Goud",
-            "special_features": ["observatiedek", "restaurant"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-7.jpeg?raw=true"
+            "special_features": [
+                "observatiedek",
+                "restaurant"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-7.jpeg?raw=true",
+            "description": "De Golden Horizon is een gouden zeppelin met een observatiedek en een restaurant aan boord. Bewonder het prachtige uitzicht en geniet van heerlijke gerechten tijdens je reis."
         },
         {
             "type": "zeppelin",
@@ -77,8 +105,12 @@
             "passenger_capacity": 40,
             "speed": "70 km/u",
             "color": "Blauw",
-            "special_features": ["luxe cabines", "bar"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-8.jpeg?raw=true"
+            "special_features": [
+                "luxe cabines",
+                "bar"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-8.jpeg?raw=true",
+            "description": "De Sky Dreamer is een blauwe zeppelin met luxe cabines en een bar aan boord. Ontspan in comfort en geniet van een drankje terwijl je door de lucht zweeft."
         },
         {
             "type": "fighter",
@@ -86,19 +118,179 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 2",
-            "weapons": ["plasma kanonnen", "raketten"],
-            "special_features": ["stealth-modus", "supersonische vliegcapaciteit"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-1.jpeg?raw=true"
+            "weapons": [
+                "plasma kanonnen",
+                "raketten"
+            ],
+            "special_features": [
+                "stealth-modus",
+                "supersonische vliegcapaciteit"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-1.jpeg?raw=true",
+            "description": "De Thunderhawk X-500 is een geavanceerde gevechtsvliegtuig met stealth-modus en supersonische vliegcapaciteit. Het is uitgerust met plasma kanonnen en raketten voor maximale vuurkracht."
         },
-{
+        {
             "type": "fighter",
             "name": "Shadowhawk X-200",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 3",
-            "weapons": ["laser kanonnen", "raketten"],
-            "special_features": ["invisibility cloak", "advanced targeting system"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-2.jpeg?raw=true"
+            "weapons": [
+                "laser kanonnen",
+                "raketten"
+            ],
+            "special_features": [
+                "invisibility cloak",
+                "advanced targeting system"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-2.jpeg?raw=true",
+            "description": "De Shadowhawk X-200 is een geavanceerd gevechtsvliegtuig met een onzichtbaarheidsmantel en een geavanceerd richtsysteem. Het is bewapend met laserkanonnen en raketten voor precisieaanvallen."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Sky Voyager",
+            "fuel": "Helium",
+            "passenger_capacity": 50,
+            "speed": "80 km/u",
+            "color": "Zilver",
+            "special_features": [
+                "observatiedek",
+                "luxe cabines"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-1.jpeg?raw=true",
+            "description": "De Sky Voyager is een zilveren zeppelin met een observatiedek en luxe cabines aan boord. Geniet van een panoramisch uitzicht en ervaar ultieme luxe tijdens je reis."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Cloud Cruiser",
+            "fuel": "Helium",
+            "passenger_capacity": 40,
+            "speed": "70 km/u",
+            "color": "Blauw",
+            "special_features": [
+                "panoramisch uitzicht",
+                "bar"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-2.jpeg?raw=true",
+            "description": "De Cloud Cruiser is een blauwe zeppelin met een panoramisch uitzicht en een bar aan boord. Geniet van adembenemende uitzichten en ontspan met een drankje tijdens je reis."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Air Majesty",
+            "fuel": "Helium",
+            "passenger_capacity": 60,
+            "speed": "90 km/u",
+            "color": "Goud",
+            "special_features": [
+                "observatiedek",
+                "restaurant"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-3.jpeg?raw=true",
+            "description": "De Air Majesty is een gouden zeppelin met een observatiedek en een restaurant aan boord. Bewonder het prachtige uitzicht en geniet van heerlijke gerechten tijdens je reis."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Sky Serenity",
+            "fuel": "Helium",
+            "passenger_capacity": 45,
+            "speed": "75 km/u",
+            "color": "Groen",
+            "special_features": [
+                "bioscoop",
+                "fitnessruimte"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-4.jpeg?raw=true",
+            "description": "De Sky Serenity is een groene zeppelin met een bioscoop en een fitnessruimte aan boord. Ontspan en geniet van je favoriete films of werk aan je conditie terwijl je reist."
+        },  
+        {
+            "type": "zeppelin",
+            "name": "Silver Skyline",
+            "fuel": "Helium",
+            "passenger_capacity": 55,
+            "speed": "85 km/u",
+            "color": "Zilver",
+            "special_features": [
+                "zwembad",
+                "casino"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-5.jpeg?raw=true",
+            "description": "De Silver Skyline is een zilveren zeppelin met een zwembad en een casino aan boord. Geniet van een verfrissende duik en waag een gokje terwijl je door de lucht reist."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Majestic Airship",
+            "fuel": "Helium",
+            "passenger_capacity": 50,
+            "speed": "80 km/u",
+            "color": "Paars",
+            "special_features": [
+                "skybar",
+                "spa"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-6.jpeg?raw=true",
+            "description": "De Majestic Airship is een paarse zeppelin met een skybar en een spa aan boord. Geniet van een drankje en verwen jezelf met een ontspannende spa-behandeling terwijl je reist."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Golden Horizon",
+            "fuel": "Helium",
+            "passenger_capacity": 60,
+            "speed": "90 km/u",
+            "color": "Goud",
+            "special_features": [
+                "observatiedek",
+                "restaurant"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-7.jpeg?raw=true",
+            "description": "De Golden Horizon is een gouden zeppelin met een observatiedek en een restaurant aan boord. Bewonder het prachtige uitzicht en geniet van heerlijke gerechten tijdens je reis."
+        },
+        {
+            "type": "zeppelin",
+            "name": "Sky Dreamer",
+            "fuel": "Helium",
+            "passenger_capacity": 40,
+            "speed": "70 km/u",
+            "color": "Blauw",
+            "special_features": [
+                "luxe cabines",
+                "bar"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/zeppelin-8.jpeg?raw=true",
+            "description": "De Sky Dream is een blauwe zeppelin met luxe cabines en een bar aan boord. Ontspan in comfort en geniet van een drankje terwijl je door de lucht zweeft."
+        },
+        {
+            "type": "fighter",
+            "name": "Thunderhawk X-500",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 2",
+            "weapons": [
+                "plasma kanonnen",
+                "raketten"
+            ],
+            "special_features": [
+                "stealth-modus",
+                "supersonische vliegcapaciteit"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-1.jpeg?raw=true",
+            "description": "De Thunderhawk X-500 is een geavanceerd gevechtsvliegtuig met stealth-modus en supersonische vliegcapaciteit. Het is uitgerust met plasma kanonnen en raketten voor maximale vuurkracht."
+        },
+        {
+            "type": "fighter",
+            "name": "Shadowhawk X-200",
+            "fuel": "Fusion Reactor",
+            "crew": 1,
+            "speed": "Mach 3",
+            "weapons": [
+                "laser kanonnen",
+                "raketten"
+            ],
+            "special_features": [
+                "invisibility cloak",
+                "advanced targeting system"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-2.jpeg?raw=true",
+            "description": "De Shadowhawk X-200 is een geavanceerd gevechtsvliegtuig met een onzichtbaarheidsmantel en een geavanceerd richtsysteem. Het is bewapend met laserkanonnen en raketten voor precisieaanvallen."
         },
         {
             "type": "fighter",
@@ -106,9 +298,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 2.5",
-            "weapons": ["plasma kanonnen", "EMP bommen"],
-            "special_features": ["stealth technology", "advanced maneuverability"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-3.jpeg?raw=true"
+            "weapons": [
+                "plasma kanonnen",
+                "EMP bommen"
+            ],
+            "special_features": [
+                "stealth technology",
+                "advanced maneuverability"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-3.jpeg?raw=true",
+            "description": "De Firestorm X-300 is een geavanceerd gevechtsvliegtuig met stealth-technologie en geavanceerde wendbaarheid. Het is uitgerust met plasma kanonnen en EMP-bommen voor maximale vuurkracht."
         },
         {
             "type": "fighter",
@@ -116,9 +315,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 3.5",
-            "weapons": ["railguns", "guided missiles"],
-            "special_features": ["active camouflage", "hypersonic capabilities"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-4.jpeg?raw=true"
+            "weapons": [
+                "railguns",
+                "guided missiles"
+            ],
+            "special_features": [
+                "active camouflage",
+                "hypersonic capabilities"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-4.jpeg?raw=true",
+            "description": "De Thunderstrike X-400 is een geavanceerd gevechtsvliegtuig met actieve camouflage en hypersonische capaciteiten. Het is bewapend met railguns en geleide raketten voor precisieaanvallen."
         },
         {
             "type": "fighter",
@@ -126,9 +332,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 4",
-            "weapons": ["plasma cannons", "cluster bombs"],
-            "special_features": ["energy shield", "vertical takeoff and landing"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-5.jpeg?raw=true"
+            "weapons": [
+                "plasma cannons",
+                "cluster bombs"
+            ],
+            "special_features": [
+                "energy shield",
+                "vertical takeoff and landing"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-5.jpeg?raw=true",
+            "description": "De Viper X-600 is een geavanceerd gevechtsvliegtuig met een energieschild en verticale opstijg- en landingscapaciteiten. Het is bewapend met plasma kanonnen en clusterbommen voor maximale vuurkracht."
         },
         {
             "type": "fighter",
@@ -136,9 +349,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 4.5",
-            "weapons": ["laser cannons", "guided torpedoes"],
-            "special_features": ["stealth mode", "supersonic capabilities"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-6.jpeg?raw=true"
+            "weapons": [
+                "laser cannons",
+                "guided torpedoes"
+            ],
+            "special_features": [
+                "stealth mode",
+                "supersonic capabilities"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-6.jpeg?raw=true",
+            "description": "De Raptor X-700 is een geavanceerd gevechtsvliegtuig met stealth-modus en supersonische capaciteiten. Het is bewapend met laserkannonen en geleide torpedo's voor precisieaanvallen."
         },
         {
             "type": "fighter",
@@ -146,9 +366,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 5",
-            "weapons": ["plasma cannons", "nuclear missiles"],
-            "special_features": ["advanced radar system", "hypersonic maneuverability"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-7.jpeg?raw=true"
+            "weapons": [
+                "plasma cannons",
+                "nuclear missiles"
+            ],
+            "special_features": [
+                "advanced radar system",
+                "hypersonic maneuverability"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-7.jpeg?raw=true",
+            "description": "De Phoenix X-800 is een geavanceerd gevechtsvliegtuig met een geavanceerd radarsysteem en hypersonische wendbaarheid. Het is bewapend met plasma kanonnen en nucleaire raketten voor maximale vuurkracht."
         },
         {
             "type": "fighter",
@@ -156,9 +383,16 @@
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 6",
-            "weapons": ["railguns", "plasma torpedoes"],
-            "special_features": ["energy shield", "advanced AI system"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-8.jpeg?raw=true"
+            "weapons": [
+                "railguns",
+                "plasma torpedoes"
+            ],
+            "special_features": [
+                "energy shield",
+                "advanced AI system"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/fighter-8.jpeg?raw=true",
+            "description": "De Titan X-900 is een geavanceerd gevechtsvliegtuig met een energieschild en een geavanceerd AI-systeem. Het is bewapend met railguns en plasma-torpedo's voor maximale vuurkracht."
         },
         {
             "type": "car",
@@ -167,8 +401,12 @@
             "passenger_capacity": 4,
             "speed": "200 km/u",
             "color": "Rood",
-            "special_features": ["zelfrijdend", "geavanceerd infotainmentsysteem"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-1.jpeg?raw=true"            
+            "special_features": [
+                "zelfrijdend",
+                "geavanceerd infotainmentsysteem"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-1.jpeg?raw=true",
+            "description": "De Quantum Roadster is een elektrische sportwagen met zelfrijdende technologie en een geavanceerd infotainmentsysteem. Geniet van een comfortabele en luxueuze rijervaring."
         },
         {
             "type": "car",
@@ -177,8 +415,12 @@
             "passenger_capacity": 2,
             "speed": "350 km/u",
             "color": "Blauw",
-            "special_features": ["sportuitlaat", "racestoelen"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-2.jpeg?raw=true"            
+            "special_features": [
+                "sportuitlaat",
+                "racestoelen"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-2.jpeg?raw=true",
+            "description": "De HyperDrive GT is een benzine sportwagen met een sportuitlaat en racestoelen. Ervaar de ultieme snelheid en prestaties tijdens het rijden."
         },
         {
             "type": "car",
@@ -187,8 +429,12 @@
             "passenger_capacity": 5,
             "speed": "180 km/u",
             "color": "Groen",
-            "special_features": ["brandstofceltechnologie", "zuinig brandstofverbruik"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-3.jpeg?raw=true"            
+            "special_features": [
+                "brandstofceltechnologie",
+                "zuinig brandstofverbruik"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-3.jpeg?raw=true",
+            "description": "De EcoCruiser is een waterstofauto met brandstofceltechnologie en een zuinig brandstofverbruik. Rijd milieuvriendelijk en geniet van een comfortabele en stille rijervaring."
         },
         {
             "type": "car",
@@ -197,8 +443,12 @@
             "passenger_capacity": 4,
             "speed": "150 km/u",
             "color": "Geel",
-            "special_features": ["compact formaat", "parkeerassistentie"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-4.jpeg?raw=true"            
+            "special_features": [
+                "compact formaat",
+                "parkeerassistentie"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-4.jpeg?raw=true",
+            "description": "De UrbanCity is een compacte elektrische auto met parkeerassistentie. Ideaal voor stadsverkeer en korte ritten."
         },
         {
             "type": "car",
@@ -207,8 +457,12 @@
             "passenger_capacity": 5,
             "speed": "250 km/u",
             "color": "Zilver",
-            "special_features": ["lederen bekleding", "panoramisch dak"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-5.jpeg?raw=true"            
+            "special_features": [
+                "lederen bekleding",
+                "panoramisch dak"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-5.jpeg?raw=true",
+            "description": "De LuxuryCruise is een luxe benzineauto met lederen bekleding en een panoramisch dak. Geniet van een comfortabele en stijlvolle rijervaring."
         },
         {
             "type": "car",
@@ -217,8 +471,12 @@
             "passenger_capacity": 5,
             "speed": "180 km/u",
             "color": "Zwart",
-            "special_features": ["vierwielaandrijving", "offroad banden"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-6.jpeg?raw=true"            
+            "special_features": [
+                "vierwielaandrijving",
+                "offroad banden"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-6.jpeg?raw=true",
+            "description": "De OffroadBeast is een krachtige dieselauto met vierwielaandrijving en offroad banden. Verken ruig terrein en geniet van avontuurlijke ritten."
         },
         {
             "type": "car",
@@ -227,8 +485,12 @@
             "passenger_capacity": 7,
             "speed": "160 km/u",
             "color": "Wit",
-            "special_features": ["grote bagageruimte", "achteruitrijcamera"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-7.jpeg?raw=true"            
+            "special_features": [
+                "grote bagageruimte",
+                "achteruitrijcamera"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-7.jpeg?raw=true",
+            "description": "De FamilyVan is een ruime benzineauto met een grote bagageruimte en een achteruitrijcamera. Ideaal voor gezinsuitstapjes en lange ritten."
         },
         {
             "type": "car",
@@ -237,8 +499,12 @@
             "passenger_capacity": 2,
             "speed": "300 km/u",
             "color": "Rood",
-            "special_features": ["retro design", "sportuitlaat"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-8.jpeg?raw=true"
+            "special_features": [
+                "retro design",
+                "sportuitlaat"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/car-8.jpeg?raw=true",
+            "description": "De RetroRacer is een benzine sportwagen met een retro design en een sportuitlaat. Ervaar de nostalgie van het autorijden met moderne prestaties."
         },
         {
             "type": "drone",
@@ -247,8 +513,12 @@
             "flight_time": "1 uur",
             "max_range": "50 km",
             "color": "Zwart",
-            "special_features": ["HD-camera", "automatische piloot"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-1.jpeg?raw=true"
+            "special_features": [
+                "HD-camera",
+                "automatische piloot"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-1.jpeg?raw=true",
+            "description": "De SwiftEye 3000 is een geavanceerde drone met een HD-camera en automatische piloot. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -257,8 +527,12 @@
             "flight_time": "2 uur",
             "max_range": "100 km",
             "color": "Wit",
-            "special_features": ["4K-camera", "GPS-navigatie"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-2.jpeg?raw=true"
+            "special_features": [
+                "4K-camera",
+                "GPS-navigatie"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-2.jpeg?raw=true",
+            "description": "De SkyMaster X is een geavanceerde drone met een 4K-camera en GPS-navigatie. Verken de lucht en leg adembenemende beelden vast met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -267,8 +541,12 @@
             "flight_time": "3 uur",
             "max_range": "150 km",
             "color": "Blauw",
-            "special_features": ["Obstacle avoidance", "Follow me mode"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-3.jpeg?raw=true"
+            "special_features": [
+                "Obstacle avoidance",
+                "Follow me mode"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-3.jpeg?raw=true",
+            "description": "De AeroWing 500 is een geavanceerde drone met zonne-energie en obstakelvermijding. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -277,8 +555,12 @@
             "flight_time": "1.5 uur",
             "max_range": "75 km",
             "color": "Zwart",
-            "special_features": ["Night vision camera", "Stealth mode"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-4.jpeg?raw=true"
+            "special_features": [
+                "Night vision camera",
+                "Stealth mode"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-4.jpeg?raw=true",
+            "description": "De StealthFlyer is een geavanceerde drone met een nachtzichtcamera en stealth-modus. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -287,8 +569,12 @@
             "flight_time": "2.5 uur",
             "max_range": "120 km",
             "color": "Rood",
-            "special_features": ["Thermal camera", "Fire detection system"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-5.jpeg?raw=true"
+            "special_features": [
+                "Thermal camera",
+                "Fire detection system"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-5.jpeg?raw=true",
+            "description": "De FireFly is een geavanceerde drone met een thermische camera en een brandsensysteem. Verken de lucht en detecteer branden met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -297,8 +583,12 @@
             "flight_time": "1.5 uur",
             "max_range": "80 km",
             "color": "Geel",
-            "special_features": ["High-speed mode", "Acrobatic maneuvers"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-6.jpeg?raw=true"
+            "special_features": [
+                "High-speed mode",
+                "Acrobatic maneuvers"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-6.jpeg?raw=true",
+            "description": "De SpeedWing is een geavanceerde drone met een hoge snelheidsmodus en acrobatische manoeuvres. Verken de lucht en ervaar de sensatie van snelheid en wendbaarheid met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -307,8 +597,12 @@
             "flight_time": "2 uur",
             "max_range": "100 km",
             "color": "Grijs",
-            "special_features": ["Heavy payload capacity", "Cargo delivery system"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-7.jpeg?raw=true"
+            "special_features": [
+                "Heavy payload capacity",
+                "Cargo delivery system"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-7.jpeg?raw=true",
+            "description": "De CargoHawk is een geavanceerde drone met een zware laadcapaciteit en een vrachtsysteem. Verken de lucht en lever vracht met deze krachtige drone."
         },
         {
             "type": "drone",
@@ -317,100 +611,152 @@
             "flight_time": "1.5 uur",
             "max_range": "75 km",
             "color": "Oranje",
-            "special_features": ["First aid kit", "Emergency beacon"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-8.jpeg?raw=true"
+            "special_features": [
+                "First aid kit",
+                "Emergency beacon"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/drone-8.jpeg?raw=true",
+            "description": "De RescueDrone is een geavanceerde drone met een EHBO-kit en een noodbaken. Verken de lucht en bied hulp bij noodsituaties met deze krachtige drone."
         },
         {
             "type": "bike",
             "name": "MountainMaster",
             "speed": "25 km/u",
             "color": "Zwart",
-            "special_features": ["Verende voorvork", "Schijfremmen"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-1.jpeg?raw=true"
+            "special_features": [
+                "Verende voorvork",
+                "Schijfremmen"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-1.jpeg?raw=true",
+            "description": "De MountainMaster is een zwarte mountainbike met een verende voorvork en schijfremmen. Verken ruig terrein en geniet van avontuurlijke ritten met deze krachtige fiets."
         },
         {
             "type": "bike",
             "name": "CityCruiser",
             "speed": "20 km/u",
             "color": "Blauw",
-            "special_features": ["Bagagedrager", "Verlichting"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-2.jpeg?raw=true"
+            "special_features": [
+                "Bagagedrager",
+                "Verlichting"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-2.jpeg?raw=true",
+            "description": "De CityCruiser is een blauwe stadsfiets met een bagagedrager en verlichting. Verken de stad en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
             "type": "bike",
             "name": "ElectricGlide",
             "speed": "30 km/u",
             "color": "Wit",
-            "special_features": ["Elektrische ondersteuning", "Afneembare accu"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-3.jpeg?raw=true"
+            "special_features": [
+                "Elektrische ondersteuning",
+                "Afneembare accu"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-3.jpeg?raw=true",
+            "description": "De ElectricGlide is een witte elektrische fiets met elektrische ondersteuning en een afneembare accu. Rijd moeiteloos en geniet van lange ritten met deze comfortabele fiets."
         },
         {
             "type": "bike",
             "name": "RacingRocket",
             "speed": "40 km/u",
             "color": "Rood",
-            "special_features": ["Lichtgewicht frame", "Aerodynamisch design"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-4.jpeg?raw=true"
+            "special_features": [
+                "Lichtgewicht frame",
+                "Aerodynamisch design"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-4.jpeg?raw=true",
+            "description": "De RacingRocket is een rode racefiets met een lichtgewicht frame en een aerodynamisch design. Ervaar de sensatie van snelheid en prestaties met deze krachtige fiets."
         },
         {
             "type": "bike",
             "name": "UrbanCommuter",
             "speed": "15 km/u",
             "color": "Grijs",
-            "special_features": ["Vouwbaar", "Bagagedrager"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-5.jpeg?raw=true"
+            "special_features": [
+                "Vouwbaar",
+                "Bagagedrager"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-5.jpeg?raw=true",
+            "description": "De UrbanCommuter is een grijze vouwfiets met een bagagedrager. Ideaal voor stadsverkeer en korte ritten met het openbaar vervoer."
         },
         {
             "type": "bike",
             "name": "BMXExtreme",
             "speed": "35 km/u",
             "color": "Geel",
-            "special_features": ["Stuntfiets", "Versterkte banden"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-6.jpeg?raw=true"
+            "special_features": [
+                "Stuntfiets",
+                "Versterkte banden"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-6.jpeg?raw=true",
+            "description": "De BMXExtreme is een gele stuntfiets met versterkte banden. Voer spectaculaire stunts uit en geniet van avontuurlijke ritten met deze krachtige fiets."
         },
         {
             "type": "bike",
             "name": "TouringTrek",
             "speed": "22 km/u",
             "color": "Groen",
-            "special_features": ["Bagagedrager", "Verende zadelpen"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-7.jpeg?raw=true"
+            "special_features": [
+                "Bagagedrager",
+                "Verende zadelpen"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-7.jpeg?raw=true",
+            "description": "De TouringTrek is een groene toerfiets met een bagagedrager en een verende zadelpen. Verken het platteland en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
             "type": "bike",
             "name": "KidsCruiser",
             "speed": "10 km/u",
             "color": "Roze",
-            "special_features": ["Kinderzitje", "Veiligheidsvlag"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-8.jpeg?raw=true"
+            "special_features": [
+                "Kinderzitje",
+                "Veiligheidsvlag"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/bike-8.jpeg?raw=true",
+            "description": "De KidsCruiser is een roze kinderfiets met een kinderzitje en een veiligheidsvlag. Maak leuke uitstapjes met je kinderen en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
             "type": "step",
             "name": "CityGlider",
             "color": "Zwart",
-            "special_features": ["Opvouwbaar", "In hoogte verstelbaar stuur"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-1.jpeg?raw=true"
+            "special_features": [
+                "Opvouwbaar",
+                "In hoogte verstelbaar stuur"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-1.jpeg?raw=true",
+            "description": "De CityGlider is een zwarte step met een opvouwbaar ontwerp en een in hoogte verstelbaar stuur. Ideaal voor stadsverkeer en korte ritten met het openbaar vervoer."
         },
         {
             "type": "step",
             "name": "SpeedRider",
             "color": "Rood",
-            "special_features": ["Snelheidsmeter", "Verstelbare rem"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-2.jpeg?raw=true"
+            "special_features": [
+                "Snelheidsmeter",
+                "Verstelbare rem"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-2.jpeg?raw=true",
+            "description": "De SpeedRider is een rode step met een snelheidsmeter en een verstelbare rem. Ervaar de sensatie van snelheid en wendbaarheid met deze krachtige step."
         },
         {
             "type": "step",
             "name": "OffroadExplorer",
             "color": "Groen",
-            "special_features": ["Geschikt voor ruw terrein", "Schokdempers"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-3.jpeg?raw=true"
+            "special_features": [
+                "Geschikt voor ruw terrein",
+                "Schokdempers"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-3.jpeg?raw=true",
+            "description": "De OffroadExplorer is een groene step die geschikt is voor ruw terrein en is uitgerust met schokdempers. Verken avontuurlijke paden en geniet van offroad ritten met deze krachtige step."
         },
         {
             "type": "step",
             "name": "KidsCruiser",
             "color": "Blauw",
-            "special_features": ["Verstelbaar stuur", "Veiligheidsvlag"],
-            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-4.jpeg?raw=true"
+            "special_features": [
+                "Verstelbaar stuur",
+                "Veiligheidsvlag"
+            ],
+            "image": "https://github.com/smaesAP/mock-api/blob/main/assets/vehicles/step-4.jpeg?raw=true",
+            "description": "De KidsCruiser is een roze kinderfiets met een kinderzitje en een veiligheidsvlag. Maak leuke uitstapjes met je kinderen en geniet van ontspannen ritten met deze comfortabele fiets."
         }
     ]
 }
