@@ -1,6 +1,7 @@
 {
     "vehicles": [
         {
+            "id": 1,
             "type": "zeppelin",
             "name": "Sky Voyager",
             "fuel": "Helium",
@@ -15,6 +16,7 @@
             "description": "De Sky Voyager is een prachtige zilveren zeppelin met een observatiedek en luxe cabines. Het is de perfecte keuze voor een ontspannen en luxueuze reis door de lucht."
         },
         {
+            "id": 2,
             "type": "zeppelin",
             "name": "Cloud Cruiser",
             "fuel": "Helium",
@@ -29,6 +31,7 @@
             "description": "De Cloud Cruiser is een blauwe zeppelin met een panoramisch uitzicht en een bar aan boord. Geniet van het adembenemende uitzicht terwijl je ontspant met een drankje."
         },
         {
+            "id": 2,
             "type": "zeppelin",
             "name": "Air Majesty",
             "fuel": "Helium",
@@ -43,6 +46,7 @@
             "description": "De Air Majesty is een gouden zeppelin met een luxe spa en een restaurant aan boord. Laat je verwennen en geniet van heerlijke gerechten terwijl je door de lucht zweeft."
         },
         {
+            "id": 3,
             "type": "zeppelin",
             "name": "Sky Serenity",
             "fuel": "Helium",
@@ -57,6 +61,7 @@
             "description": "De Sky Serenity is een groene zeppelin met een bioscoop en een fitnessruimte aan boord. Ontspan en geniet van je favoriete films of werk aan je conditie terwijl je reist."
         },
         {
+            "id": 4,
             "type": "zeppelin",
             "name": "Silver Skyline",
             "fuel": "Helium",
@@ -71,6 +76,7 @@
             "description": "De Silver Skyline is een zilveren zeppelin met een zwembad en een casino aan boord. Geniet van een verfrissende duik en waag een gokje terwijl je door de lucht reist."
         },
         {
+            "id": 5,
             "type": "zeppelin",
             "name": "Majestic Airship",
             "fuel": "Helium",
@@ -85,6 +91,7 @@
             "description": "De Majestic Airship is een paarse zeppelin met een skybar en een spa aan boord. Geniet van een drankje en verwen jezelf met een ontspannende spa-behandeling terwijl je reist."
         },
         {
+            "id": 6,
             "type": "zeppelin",
             "name": "Golden Horizon",
             "fuel": "Helium",
@@ -99,6 +106,7 @@
             "description": "De Golden Horizon is een gouden zeppelin met een observatiedek en een restaurant aan boord. Bewonder het prachtige uitzicht en geniet van heerlijke gerechten tijdens je reis."
         },
         {
+            "id": 7,
             "type": "zeppelin",
             "name": "Sky Dreamer",
             "fuel": "Helium",
@@ -113,11 +121,13 @@
             "description": "De Sky Dreamer is een blauwe zeppelin met luxe cabines en een bar aan boord. Ontspan in comfort en geniet van een drankje terwijl je door de lucht zweeft."
         },
         {
+            "id": 8,
             "type": "fighter",
             "name": "Thunderhawk X-500",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 2",
+            "passenger_capacity": 5,
             "weapons": [
                 "plasma kanonnen",
                 "raketten"
@@ -130,11 +140,13 @@
             "description": "De Thunderhawk X-500 is een geavanceerd gevechtsvliegtuig met stealth-modus en supersonische vliegcapaciteit. Het is uitgerust met plasma kanonnen en raketten voor maximale vuurkracht."
         },
         {
+            "id": 9,
             "type": "fighter",
             "name": "Shadowhawk X-200",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 3",
+            "passenger_capacity": 4,
             "weapons": [
                 "laser kanonnen",
                 "raketten"
@@ -147,11 +159,13 @@
             "description": "De Shadowhawk X-200 is een geavanceerd gevechtsvliegtuig met een onzichtbaarheidsmantel en een geavanceerd richtsysteem. Het is bewapend met laserkanonnen en raketten voor precisieaanvallen."
         },
         {
+            "id": 10,
             "type": "fighter",
             "name": "Firestorm X-300",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 2.5",
+            "passenger_capacity": 3,
             "weapons": [
                 "plasma kanonnen",
                 "EMP bommen"
@@ -164,11 +178,13 @@
             "description": "De Firestorm X-300 is een geavanceerd gevechtsvliegtuig met stealth-technologie en geavanceerde wendbaarheid. Het is uitgerust met plasma kanonnen en EMP-bommen voor maximale vuurkracht."
         },
         {
+            "id": 11,
             "type": "fighter",
             "name": "Thunderstrike X-400",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 3.5",
+            "passenger_capacity": 7,
             "weapons": [
                 "railguns",
                 "guided missiles"
@@ -181,11 +197,13 @@
             "description": "De Thunderstrike X-400 is een geavanceerd gevechtsvliegtuig met actieve camouflage en hypersonische capaciteiten. Het is bewapend met railguns en geleide raketten voor precisieaanvallen."
         },
         {
+            "id": 12,
             "type": "fighter",
             "name": "Viper X-600",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 4",
+            "passenger_capacity": 3,
             "weapons": [
                 "plasma cannons",
                 "cluster bombs"
@@ -198,11 +216,13 @@
             "description": "De Viper X-600 is een geavanceerd gevechtsvliegtuig met een energieschild en verticale opstijg- en landingscapaciteiten. Het is bewapend met plasma kanonnen en clusterbommen voor maximale vuurkracht."
         },
         {
+            "id": 13,
             "type": "fighter",
             "name": "Raptor X-700",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 4.5",
+            "passenger_capacity": 5,
             "weapons": [
                 "laser cannons",
                 "guided torpedoes"
@@ -215,11 +235,13 @@
             "description": "De Raptor X-700 is een geavanceerd gevechtsvliegtuig met stealth-modus en supersonische capaciteiten. Het is bewapend met laserkannonen en geleide torpedo's voor precisieaanvallen."
         },
         {
+            "id": 14,
             "type": "fighter",
             "name": "Phoenix X-800",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 5",
+            "passenger_capacity": 4,
             "weapons": [
                 "plasma cannons",
                 "nuclear missiles"
@@ -232,11 +254,13 @@
             "description": "De Phoenix X-800 is een geavanceerd gevechtsvliegtuig met een geavanceerd radarsysteem en hypersonische wendbaarheid. Het is bewapend met plasma kanonnen en nucleaire raketten voor maximale vuurkracht."
         },
         {
+            "id": 15,
             "type": "fighter",
             "name": "Titan X-900",
             "fuel": "Fusion Reactor",
             "crew": 1,
             "speed": "Mach 6",
+            "passenger_capacity": 3,
             "weapons": [
                 "railguns",
                 "plasma torpedoes"
@@ -249,6 +273,7 @@
             "description": "De Titan X-900 is een geavanceerd gevechtsvliegtuig met een energieschild en een geavanceerd AI-systeem. Het is bewapend met railguns en plasma-torpedo's voor maximale vuurkracht."
         },
         {
+            "id": 16,
             "type": "car",
             "name": "Quantum Roadster",
             "fuel": "Elektriciteit",
@@ -263,6 +288,7 @@
             "description": "De Quantum Roadster is een elektrische sportwagen met zelfrijdende technologie en een geavanceerd infotainmentsysteem. Geniet van een comfortabele en luxueuze rijervaring."
         },
         {
+            "id": 17,
             "type": "car",
             "name": "HyperDrive GT",
             "fuel": "Benzine",
@@ -277,6 +303,7 @@
             "description": "De HyperDrive GT is een benzine sportwagen met een sportuitlaat en racestoelen. Ervaar de ultieme snelheid en prestaties tijdens het rijden."
         },
         {
+            "id": 18,
             "type": "car",
             "name": "EcoCruiser",
             "fuel": "Waterstof",
@@ -291,6 +318,7 @@
             "description": "De EcoCruiser is een waterstofauto met brandstofceltechnologie en een zuinig brandstofverbruik. Rijd milieuvriendelijk en geniet van een comfortabele en stille rijervaring."
         },
         {
+            "id": 19,
             "type": "car",
             "name": "UrbanCity",
             "fuel": "Elektriciteit",
@@ -305,6 +333,7 @@
             "description": "De UrbanCity is een compacte elektrische auto met parkeerassistentie. Ideaal voor stadsverkeer en korte ritten."
         },
         {
+            "id": 20,
             "type": "car",
             "name": "LuxuryCruise",
             "fuel": "Benzine",
@@ -319,6 +348,7 @@
             "description": "De LuxuryCruise is een luxe benzineauto met lederen bekleding en een panoramisch dak. Geniet van een comfortabele en stijlvolle rijervaring."
         },
         {
+            "id": 21,
             "type": "car",
             "name": "OffroadBeast",
             "fuel": "Diesel",
@@ -333,6 +363,7 @@
             "description": "De OffroadBeast is een krachtige dieselauto met vierwielaandrijving en offroad banden. Verken ruig terrein en geniet van avontuurlijke ritten."
         },
         {
+            "id": 22,
             "type": "car",
             "name": "FamilyVan",
             "fuel": "Benzine",
@@ -347,6 +378,8 @@
             "description": "De FamilyVan is een ruime benzineauto met een grote bagageruimte en een achteruitrijcamera. Ideaal voor gezinsuitstapjes en lange ritten."
         },
         {
+
+            "id": 23,
             "type": "car",
             "name": "RetroRacer",
             "fuel": "Benzine",
@@ -361,12 +394,14 @@
             "description": "De RetroRacer is een benzine sportwagen met een retro design en een sportuitlaat. Ervaar de nostalgie van het autorijden met moderne prestaties."
         },
         {
+            "id": 24,
             "type": "drone",
             "name": "SwiftEye 3000",
             "energy_source": "Batterij",
             "flight_time": "1 uur",
             "max_range": "50 km",
             "color": "Zwart",
+            "passenger_capacity": 0,
             "special_features": [
                 "HD-camera",
                 "automatische piloot"
@@ -375,12 +410,14 @@
             "description": "De SwiftEye 3000 is een geavanceerde drone met een HD-camera en automatische piloot. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
+            "id": 25,
             "type": "drone",
             "name": "SkyMaster X",
             "energy_source": "Batterij",
             "flight_time": "2 uur",
             "max_range": "100 km",
             "color": "Wit",
+            "passenger_capacity": 0,
             "special_features": [
                 "4K-camera",
                 "GPS-navigatie"
@@ -389,12 +426,14 @@
             "description": "De SkyMaster X is een geavanceerde drone met een 4K-camera en GPS-navigatie. Verken de lucht en leg adembenemende beelden vast met deze krachtige drone."
         },
         {
+            "id": 26,
             "type": "drone",
             "name": "AeroWing 500",
             "energy_source": "Zonne-energie",
             "flight_time": "3 uur",
             "max_range": "150 km",
             "color": "Blauw",
+            "passenger_capacity": 0,
             "special_features": [
                 "Obstacle avoidance",
                 "Follow me mode"
@@ -403,12 +442,14 @@
             "description": "De AeroWing 500 is een geavanceerde drone met zonne-energie en obstakelvermijding. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
+            "id": 27,
             "type": "drone",
             "name": "StealthFlyer",
             "energy_source": "Batterij",
             "flight_time": "1.5 uur",
             "max_range": "75 km",
             "color": "Zwart",
+            "passenger_capacity": 0,
             "special_features": [
                 "Night vision camera",
                 "Stealth mode"
@@ -417,12 +458,14 @@
             "description": "De StealthFlyer is een geavanceerde drone met een nachtzichtcamera en stealth-modus. Verken de lucht en leg prachtige beelden vast met deze krachtige drone."
         },
         {
+            "id": 28,
             "type": "drone",
             "name": "FireFly",
             "energy_source": "Batterij",
             "flight_time": "2.5 uur",
             "max_range": "120 km",
             "color": "Rood",
+            "passenger_capacity": 0,
             "special_features": [
                 "Thermal camera",
                 "Fire detection system"
@@ -431,12 +474,14 @@
             "description": "De FireFly is een geavanceerde drone met een thermische camera en een brandsensysteem. Verken de lucht en detecteer branden met deze krachtige drone."
         },
         {
+            "id": 29,
             "type": "drone",
             "name": "SpeedWing",
             "energy_source": "Batterij",
             "flight_time": "1.5 uur",
             "max_range": "80 km",
             "color": "Geel",
+            "passenger_capacity": 0,
             "special_features": [
                 "High-speed mode",
                 "Acrobatic maneuvers"
@@ -445,12 +490,14 @@
             "description": "De SpeedWing is een geavanceerde drone met een hoge snelheidsmodus en acrobatische manoeuvres. Verken de lucht en ervaar de sensatie van snelheid en wendbaarheid met deze krachtige drone."
         },
         {
+            "id": 30,
             "type": "drone",
             "name": "CargoHawk",
             "energy_source": "Batterij",
             "flight_time": "2 uur",
             "max_range": "100 km",
             "color": "Grijs",
+            "passenger_capacity": 0,
             "special_features": [
                 "Heavy payload capacity",
                 "Cargo delivery system"
@@ -459,12 +506,14 @@
             "description": "De CargoHawk is een geavanceerde drone met een zware laadcapaciteit en een vrachtsysteem. Verken de lucht en lever vracht met deze krachtige drone."
         },
         {
+            "id": 31,
             "type": "drone",
             "name": "RescueDrone",
             "energy_source": "Batterij",
             "flight_time": "1.5 uur",
             "max_range": "75 km",
             "color": "Oranje",
+            "passenger_capacity": 0,
             "special_features": [
                 "First aid kit",
                 "Emergency beacon"
@@ -473,10 +522,12 @@
             "description": "De RescueDrone is een geavanceerde drone met een EHBO-kit en een noodbaken. Verken de lucht en bied hulp bij noodsituaties met deze krachtige drone."
         },
         {
+            "id": 32,
             "type": "bike",
             "name": "MountainMaster",
             "speed": "25 km/u",
             "color": "Zwart",
+            "passenger_capacity": 1,
             "special_features": [
                 "Verende voorvork",
                 "Schijfremmen"
@@ -485,10 +536,12 @@
             "description": "De MountainMaster is een zwarte mountainbike met een verende voorvork en schijfremmen. Verken ruig terrein en geniet van avontuurlijke ritten met deze krachtige fiets."
         },
         {
+            "id": 33,
             "type": "bike",
             "name": "CityCruiser",
             "speed": "20 km/u",
             "color": "Blauw",
+            "passenger_capacity": 2,
             "special_features": [
                 "Bagagedrager",
                 "Verlichting"
@@ -497,10 +550,12 @@
             "description": "De CityCruiser is een blauwe stadsfiets met een bagagedrager en verlichting. Verken de stad en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
+            "id": 34,
             "type": "bike",
             "name": "ElectricGlide",
             "speed": "30 km/u",
             "color": "Wit",
+            "passenger_capacity": 1,
             "special_features": [
                 "Elektrische ondersteuning",
                 "Afneembare accu"
@@ -509,10 +564,12 @@
             "description": "De ElectricGlide is een witte elektrische fiets met elektrische ondersteuning en een afneembare accu. Rijd moeiteloos en geniet van lange ritten met deze comfortabele fiets."
         },
         {
+            "id": 35,
             "type": "bike",
             "name": "RacingRocket",
             "speed": "40 km/u",
             "color": "Rood",
+            "passenger_capacity": 2,
             "special_features": [
                 "Lichtgewicht frame",
                 "Aerodynamisch design"
@@ -521,10 +578,12 @@
             "description": "De RacingRocket is een rode racefiets met een lichtgewicht frame en een aerodynamisch design. Ervaar de sensatie van snelheid en prestaties met deze krachtige fiets."
         },
         {
+            "id": 36,
             "type": "bike",
             "name": "UrbanCommuter",
             "speed": "15 km/u",
             "color": "Grijs",
+            "passenger_capacity": 3,
             "special_features": [
                 "Vouwbaar",
                 "Bagagedrager"
@@ -533,10 +592,12 @@
             "description": "De UrbanCommuter is een grijze vouwfiets met een bagagedrager. Ideaal voor stadsverkeer en korte ritten met het openbaar vervoer."
         },
         {
+            "id": 37,
             "type": "bike",
             "name": "BMXExtreme",
             "speed": "35 km/u",
             "color": "Geel",
+            "passenger_capacity": 1,
             "special_features": [
                 "Stuntfiets",
                 "Versterkte banden"
@@ -545,10 +606,12 @@
             "description": "De BMXExtreme is een gele stuntfiets met versterkte banden. Voer spectaculaire stunts uit en geniet van avontuurlijke ritten met deze krachtige fiets."
         },
         {
+            "id": 38,
             "type": "bike",
             "name": "TouringTrek",
             "speed": "22 km/u",
             "color": "Groen",
+            "passenger_capacity": 1,
             "special_features": [
                 "Bagagedrager",
                 "Verende zadelpen"
@@ -557,10 +620,12 @@
             "description": "De TouringTrek is een groene toerfiets met een bagagedrager en een verende zadelpen. Verken het platteland en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
+            "id": 39,
             "type": "bike",
             "name": "KidsCruiser",
             "speed": "10 km/u",
             "color": "Roze",
+            "passenger_capacity": 1,
             "special_features": [
                 "Kinderzitje",
                 "Veiligheidsvlag"
@@ -569,9 +634,11 @@
             "description": "De KidsCruiser is een roze kinderfiets met een kinderzitje en een veiligheidsvlag. Maak leuke uitstapjes met je kinderen en geniet van ontspannen ritten met deze comfortabele fiets."
         },
         {
+            "id": 40,
             "type": "step",
             "name": "CityGlider",
             "color": "Zwart",
+            "passenger_capacity": 1,
             "special_features": [
                 "Opvouwbaar",
                 "In hoogte verstelbaar stuur"
@@ -580,9 +647,11 @@
             "description": "De CityGlider is een zwarte step met een opvouwbaar ontwerp en een in hoogte verstelbaar stuur. Ideaal voor stadsverkeer en korte ritten met het openbaar vervoer."
         },
         {
+            "id": 41,
             "type": "step",
             "name": "SpeedRider",
             "color": "Rood",
+            "passenger_capacity": 1,
             "special_features": [
                 "Snelheidsmeter",
                 "Verstelbare rem"
@@ -591,9 +660,11 @@
             "description": "De SpeedRider is een rode step met een snelheidsmeter en een verstelbare rem. Ervaar de sensatie van snelheid en wendbaarheid met deze krachtige step."
         },
         {
+            "id": 42,
             "type": "step",
             "name": "OffroadExplorer",
             "color": "Groen",
+            "passenger_capacity": 1,
             "special_features": [
                 "Geschikt voor ruw terrein",
                 "Schokdempers"
@@ -602,9 +673,11 @@
             "description": "De OffroadExplorer is een groene step die geschikt is voor ruw terrein en is uitgerust met schokdempers. Verken avontuurlijke paden en geniet van offroad ritten met deze krachtige step."
         },
         {
+            "id": 43,
             "type": "step",
             "name": "KidsCruiser",
             "color": "Blauw",
+            "passenger_capacity": 1,
             "special_features": [
                 "Verstelbaar stuur",
                 "Veiligheidsvlag"
